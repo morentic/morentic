@@ -1,0 +1,23 @@
+:root {
+  --background: #292d3e;
+  --foreground: #a6accd;
+  --purple: #c792ea;
+}
+
+.main {
+  background-color: var(--background);
+  padding: 2rem;
+  color: var(--foreground);
+}
+
+.profile {
+  margin-bottom: 2rem;
+}
+
+.github {
+  display: flex;
+}
+
+.github-top-lang {
+  margin-left: 2rem;
+}
