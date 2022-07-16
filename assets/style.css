@@ -21,3 +21,7 @@
 .github-top-lang {
   margin-left: 2rem;
 }
+
+h1 {
+  color: var(--purple);
+}
